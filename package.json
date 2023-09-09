@@ -1,0 +1,20 @@
+{
+  "name": "prueva-tec-talenty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Ej1": "ts-node calculos_matematicos.ts",
+    "Ej2": "ts-node generate_primes.ts",
+    "Ej3": "ts-node gestion_de_usuarios.ts",
+    "Ej4": "ts-node gestion_de_tareas.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "5.2.2"
+  }
+}
